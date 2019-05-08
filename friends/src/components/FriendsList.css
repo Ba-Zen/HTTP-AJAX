@@ -1,0 +1,32 @@
+.friend-card{
+    border: 1px solid black;
+    width: 350px;
+    margin: 0 auto;
+    background: gainsboro;
+    margin-bottom: 10px;
+}
+
+.form{
+    border: 1px solid black;
+    width: 350px;
+    margin: 0 auto;
+    background: gainsboro;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input{
+    width: 200px;
+    text-align: center;
+}
+.submit-btn{
+    width: 180px;
+    height: 40px; 
+    background: olivedrab;
+    border-radius: 15px;
+}
+
+.submit-div{
+    padding: 20px;
+}
